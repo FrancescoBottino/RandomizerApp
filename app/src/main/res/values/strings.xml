@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="title">Generatore casuale di numeri</string>
+    <string name="number_selector_label">Numeri da 1 a :</string>
+    <string name="zero">0</string>
+    <string name="navigation_drawer_open">Apri navigation drawer</string>
+    <string name="navigation_drawer_close">Chiudi navigation drawer</string>
+    <string name="version">Versione %s</string>
+    <string name="navigation_name_main_fragment">Generatore casuale</string>
+    <string name="navigation_name_info">Informazioni</string>
+    <string name="exclude_switch_label">Escludi i numeri seguenti</string>
+    <string name="cheat_activity_name">Imbrogli</string>
+    <string name="no_possible_numbers">Errore: tutti i numberi sono esclusi</string>
+    <string name="exclude_number_chooser_dialog">Che numero escludere?</string>
+    <string name="add">Aggiungi</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:width="80dp"
+        android:height="80dp">
+        <bitmap android:src="@drawable/circle_80" android:tint="@color/primary" android:gravity="center" />
+    </item>
+
+    <item
+        android:width="45dp"
+        android:height="45dp">
+        <bitmap android:src="@drawable/ic_dices" android:tint="@color/textOnPrimary" android:gravity="center"/>
+    </item>
+
+</layer-list>
